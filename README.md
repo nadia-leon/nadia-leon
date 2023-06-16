@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/mario-sanz/mario-sanz/blob/main/gifs/hellogithub.gif"/></p>
 <h1 align="center">Hi 👋, I'm Nadia León</h1>
-<h3 align="center">A Biologist trying to learn to code</h3>
+<h3 align="center">A Biologist learning to code</h3>
 <br />
 
 <table align="right">
